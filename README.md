@@ -1,2 +1,2 @@
-# Whatsapp-Redirect
-This is a simple JavaScript project that collects user details through a form and sends them to WhatsApp using a prefilled message It is built with HTML CSS and JavaScript for learning and practice
+This project is a simple admission form built with HTML CSS and JavaScript Users can enter their name class study medium and phone number After submitting the form the entered details are automatically formatted into a message and redirected to WhatsApp using the Click to Chat feature This project demonstrates DOM manipulation event handling form processing and WhatsApp integration using Vanilla JavaScript
+
